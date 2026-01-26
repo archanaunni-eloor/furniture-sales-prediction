@@ -3,7 +3,7 @@
 A Machine Learning-powered web application that predicts the sales volume of furniture products based on their title, price, and discounts. This project utilizes **Random Forest Regression**, **TF-IDF Text Analysis**, and **Streamlit** for deployment.
 
 ## 🚀 Live Demo
-[Insert your Streamlit App URL here, e.g., https://furniture-sales.streamlit.app]
+https://unni-furniture-pred.streamlit.app/
 
 ---
 

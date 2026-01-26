@@ -8,7 +8,7 @@ model = pickle.load(open('furniture_model.pkl', 'rb'))
 tfidf = pickle.load(open('tfidf_vectorizer.pkl', 'rb'))
 
 st.set_page_config(page_title="Furniture Sales Predictor", layout="centered")
-st.title("🪑 E-commerce Furniture Sales Predictor")
+st.title("E-commerce Furniture Sales Predictor: Developed by Unni")
 st.write("Enter the details below to forecast potential sales volume.")
 
 # Sidebar for inputs

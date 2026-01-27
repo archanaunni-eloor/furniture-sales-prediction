@@ -40,5 +40,5 @@ if submit:
     prediction_log = model.predict(final_input)
     prediction = np.expm1(prediction_log)
     
-    st.spinner()
+    st.snow()
     st.success(f"### Predicted Total Sales: **{int(prediction[0])} Units**")

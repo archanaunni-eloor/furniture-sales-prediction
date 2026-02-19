@@ -3,6 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 
+
 # Load the model and vectorizer
 model = pickle.load(open('furniture_model.pkl', 'rb'))
 tfidf = pickle.load(open('tfidf_vectorizer.pkl', 'rb'))

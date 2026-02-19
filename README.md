@@ -4,7 +4,6 @@ A Machine Learning-powered web application that predicts the sales volume of fur
 
 ## 🚀 Live Demo
 https://unni-furniture-pred.streamlit.app/
-
 ---
 
 ## 📊 Project Overview
